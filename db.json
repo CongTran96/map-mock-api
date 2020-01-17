@@ -2,11 +2,11 @@
   "regions": [
     {"name":"Singapore", "id":"SGP", "animals": [
       {"name":"Cat","id":"cat","iconUrl":"https://cdn0.iconfinder.com/data/icons/white-cat-emoticon-filled/64/cute_cat_kitten_face_avatar-35-512.png"},
-      {"name":"Dog","id":"dog","iconUrl":"https://fbcd.co/images/avatars/e37aa05507bd66c70c2b5d57306a0fc0.png"}
+      {"name":"Dog","id":"dog","iconUrl":"https://cdn4.vectorstock.com/i/thumb-large/08/78/cute-fox-terrier-dog-avatar-vector-20670878.jpg"}
     ]},
     {"name":"Indonesia", "id":"ID", "animals": [
       {"name":"Cat","id":"cat","iconUrl":"https://cdn0.iconfinder.com/data/icons/white-cat-emoticon-filled/64/cute_cat_kitten_face_avatar-35-512.png"},
-      {"name":"Dog","id":"dog","iconUrl":"https://fbcd.co/images/avatars/e37aa05507bd66c70c2b5d57306a0fc0.png"}
+      {"name":"Dog","id":"dog","iconUrl":"https://cdn4.vectorstock.com/i/thumb-large/08/78/cute-fox-terrier-dog-avatar-vector-20670878.jpg"}
     ]},
     {"name":"VietNam", "id":"VN", "animals": [
       {"name":"Cat","id":"cat","iconUrl":"https://cdn0.iconfinder.com/data/icons/white-cat-emoticon-filled/64/cute_cat_kitten_face_avatar-35-512.png"},{"name":"Dog","id":"dog","iconUrl":"https://fbcd.co/images/avatars/e37aa05507bd66c70c2b5d57306a0fc0.png"},
