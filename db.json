@@ -1,0 +1,16 @@
+{
+  "regions": [
+    {"name":"Indonesia", "id":"indonesia", "animals": [
+      {"name":"Cat","id":"cat","iconUrl":"https://cdn0.iconfinder.com/data/icons/white-cat-emoticon-filled/64/cute_cat_kitten_face_avatar-35-512.png"},
+      {"name":"Dog","id":"dog","iconUrl":"https://fbcd.co/images/avatars/e37aa05507bd66c70c2b5d57306a0fc0.png"}
+    ]},
+    {"name":"VietNam", "id":"vn", "animals": [
+      {"name":"Cat","id":"cat","iconUrl":"https://cdn0.iconfinder.com/data/icons/white-cat-emoticon-filled/64/cute_cat_kitten_face_avatar-35-512.png"},{"name":"Dog","id":"dog","iconUrl":"https://fbcd.co/images/avatars/e37aa05507bd66c70c2b5d57306a0fc0.png"},
+      {"name":"Chicken","id":"chicken","iconUrl":"https://fbcd.co/images/avatars/e37aa05507bd66c70c2b5d57306a0fc0.png"}
+    ]}],
+  "animals": [
+    {"id":"cat" ,"name":"Cat","iconUrl":"https://cdn0.iconfinder.com/data/icons/white-cat-emoticon-filled/64/cute_cat_kitten_face_avatar-35-512.png","imageUrl":"https://images-na.ssl-images-amazon.com/images/I/61dakQYuSvL._SX425_.jpg"},
+    {"id":"dog","name":"Dog","iconUrl":"https://cdn4.vectorstock.com/i/thumb-large/08/78/cute-fox-terrier-dog-avatar-vector-20670878.jpg","imageUrl":"https://images-na.ssl-images-amazon.com/images/I/61MdczSfPqL._SX466_.jpg"},
+    {"id":"chicken","name":"Chicken","iconUrl":"https://fbcd.co/images/avatars/e37aa05507bd66c70c2b5d57306a0fc0.png","imageUrl":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-oXTUdj6zbKZum-l3be7Xh0DxjtpyWZObWoHQS_SOmh_XJuVc&s"}
+  ]
+}
