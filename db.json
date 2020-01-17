@@ -1,20 +1,80 @@
 {
   "regions": [
-    {"name":"Singapore", "id":"SGP", "animals": [
-      {"name":"Cat","id":"cat","iconUrl":"https://cdn0.iconfinder.com/data/icons/white-cat-emoticon-filled/64/cute_cat_kitten_face_avatar-35-512.png"},
-      {"name":"Dog","id":"dog","iconUrl":"https://cdn4.vectorstock.com/i/thumb-large/08/78/cute-fox-terrier-dog-avatar-vector-20670878.jpg"}
-    ]},
-    {"name":"Indonesia", "id":"ID", "animals": [
-      {"name":"Cat","id":"cat","iconUrl":"https://cdn0.iconfinder.com/data/icons/white-cat-emoticon-filled/64/cute_cat_kitten_face_avatar-35-512.png"},
-      {"name":"Dog","id":"dog","iconUrl":"https://cdn4.vectorstock.com/i/thumb-large/08/78/cute-fox-terrier-dog-avatar-vector-20670878.jpg"}
-    ]},
-    {"name":"VietNam", "id":"VN", "animals": [
-      {"name":"Cat","id":"cat","iconUrl":"https://cdn0.iconfinder.com/data/icons/white-cat-emoticon-filled/64/cute_cat_kitten_face_avatar-35-512.png"},{"name":"Dog","id":"dog","iconUrl":"https://fbcd.co/images/avatars/e37aa05507bd66c70c2b5d57306a0fc0.png"},
-      {"name":"Chicken","id":"chicken","iconUrl":"https://fbcd.co/images/avatars/e37aa05507bd66c70c2b5d57306a0fc0.png"}
-    ]}],
+    {
+      "name": "Singapore",
+      "id": "SGP",
+      "animals": [
+        {
+          "name": "Cat",
+          "id": "cat",
+          "iconUrl": "https://cdn0.iconfinder.com/data/icons/white-cat-emoticon-filled/64/cute_cat_kitten_face_avatar-35-512.png"
+        },
+        {
+          "name": "Dog",
+          "id": "dog",
+          "iconUrl": "https://cdn4.vectorstock.com/i/thumb-large/08/78/cute-fox-terrier-dog-avatar-vector-20670878.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Indonesia",
+      "id": "ID",
+      "animals": [
+        {
+          "name": "Cat",
+          "id": "cat",
+          "iconUrl": "https://cdn0.iconfinder.com/data/icons/white-cat-emoticon-filled/64/cute_cat_kitten_face_avatar-35-512.png"
+        },
+        {
+          "name": "Dog",
+          "id": "dog",
+          "iconUrl": "https://cdn4.vectorstock.com/i/thumb-large/08/78/cute-fox-terrier-dog-avatar-vector-20670878.jpg"
+        }
+      ]
+    },
+    {
+      "name": "VietNam",
+      "id": "VN",
+      "animals": [
+        {
+          "name": "Cat",
+          "id": "cat",
+          "iconUrl": "https://cdn0.iconfinder.com/data/icons/white-cat-emoticon-filled/64/cute_cat_kitten_face_avatar-35-512.png"
+        },
+        {
+          "name": "Dog",
+          "id": "dog",
+          "iconUrl": "https://fbcd.co/images/avatars/e37aa05507bd66c70c2b5d57306a0fc0.png"
+        },
+        {
+          "name": "Chicken",
+          "id": "chicken",
+          "iconUrl": "https://fbcd.co/images/avatars/e37aa05507bd66c70c2b5d57306a0fc0.png"
+        }
+      ]
+    }
+  ],
   "animals": [
-    {"id":"cat" ,"name":"Cat","iconUrl":"https://cdn0.iconfinder.com/data/icons/white-cat-emoticon-filled/64/cute_cat_kitten_face_avatar-35-512.png","imageUrl":"https://images-na.ssl-images-amazon.com/images/I/61dakQYuSvL._SX425_.jpg"},
-    {"id":"dog","name":"Dog","iconUrl":"https://cdn4.vectorstock.com/i/thumb-large/08/78/cute-fox-terrier-dog-avatar-vector-20670878.jpg","imageUrl":"https://images-na.ssl-images-amazon.com/images/I/61MdczSfPqL._SX466_.jpg"},
-    {"id":"chicken","name":"Chicken","iconUrl":"https://fbcd.co/images/avatars/e37aa05507bd66c70c2b5d57306a0fc0.png","imageUrl":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-oXTUdj6zbKZum-l3be7Xh0DxjtpyWZObWoHQS_SOmh_XJuVc&s"}
+    {
+      "id": "cat",
+      "name": "Cat",
+      "iconUrl": "https://cdn0.iconfinder.com/data/icons/white-cat-emoticon-filled/64/cute_cat_kitten_face_avatar-35-512.png",
+      "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/61dakQYuSvL._SX425_.jpg",
+      "description": "<p class=\"funfact\">While extremely agile, sea otters are slow swimmers. They spend the majority of their lives on their backs, only flipping over onto their fronts when greater speed is required.</p> <ul class=\"list-info\"> <li><span>Scientific Name</span>: Enhydra lutris</li> <li><span>Average Length</span>: 4 Feet</li> <li><span>Average Lifespan</span>: 10-12 Years</li> <li><span>Habitat</span>: Coasts of the Pacific Ocean in North America and Asia</li> </ul> <p>The sea otter is an aquatic member of the weasel family found along the coasts of the Pacific Ocean in North America and Asia. Sea otters often float on their backs at the water's surface.</p>"
+    },
+    {
+      "id": "dog",
+      "name": "Dog",
+      "iconUrl": "https://cdn4.vectorstock.com/i/thumb-large/08/78/cute-fox-terrier-dog-avatar-vector-20670878.jpg",
+      "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/61MdczSfPqL._SX466_.jpg",
+      "description": "<p class=\"funfact\">While extremely agile, sea otters are slow swimmers. They spend the majority of their lives on their backs, only flipping over onto their fronts when greater speed is required.</p> <ul class=\"list-info\"> <li><span>Scientific Name</span>: Enhydra lutris</li> <li><span>Average Length</span>: 4 Feet</li> <li><span>Average Lifespan</span>: 10-12 Years</li> <li><span>Habitat</span>: Coasts of the Pacific Ocean in North America and Asia</li> </ul> <p>The sea otter is an aquatic member of the weasel family found along the coasts of the Pacific Ocean in North America and Asia. Sea otters often float on their backs at the water's surface.</p>"
+    },
+    {
+      "id": "chicken",
+      "name": "Chicken",
+      "iconUrl": "https://fbcd.co/images/avatars/e37aa05507bd66c70c2b5d57306a0fc0.png",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-oXTUdj6zbKZum-l3be7Xh0DxjtpyWZObWoHQS_SOmh_XJuVc&s",
+      "description": "<p class=\"funfact\">While extremely agile, sea otters are slow swimmers. They spend the majority of their lives on their backs, only flipping over onto their fronts when greater speed is required.</p> <ul class=\"list-info\"> <li><span>Scientific Name</span>: Enhydra lutris</li> <li><span>Average Length</span>: 4 Feet</li> <li><span>Average Lifespan</span>: 10-12 Years</li> <li><span>Habitat</span>: Coasts of the Pacific Ocean in North America and Asia</li> </ul> <p>The sea otter is an aquatic member of the weasel family found along the coasts of the Pacific Ocean in North America and Asia. Sea otters often float on their backs at the water's surface.</p>"
+    }
   ]
 }
