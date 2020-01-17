@@ -5,22 +5,6 @@
       "id": "SGP",
       "animals": [
         {
-          "name": "Cat",
-          "id": "cat",
-          "iconUrl": "https://cdn0.iconfinder.com/data/icons/white-cat-emoticon-filled/64/cute_cat_kitten_face_avatar-35-512.png"
-        },
-        {
-          "name": "Dog",
-          "id": "dog",
-          "iconUrl": "https://cdn4.vectorstock.com/i/thumb-large/08/78/cute-fox-terrier-dog-avatar-vector-20670878.jpg"
-        }
-      ]
-    },
-    {
-      "name": "Indonesia",
-      "id": "ID",
-      "animals": [
-        {
           "name": "Irawaddy dolphin",
           "id": "Irawaddy-dolphin",
           "iconUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuExEwbpx32cCBdsawf7wry-PzWF5Rl2YmQhf33gSSI4M9jpdp&s"
