@@ -29,21 +29,6 @@
           "id": "Elephants",
           "name": "Elephants",
           "iconUrl": "https://img.icons8.com/plasticine/2x/elephant.png"
-        },
-        {
-          "id": "Elephants",
-          "name": "Elephants",
-          "iconUrl": "https://img.icons8.com/plasticine/2x/elephant.png"
-        },
-        {
-          "id": "Elephants",
-          "name": "Elephants",
-          "iconUrl": "https://img.icons8.com/plasticine/2x/elephant.png"
-        },
-        {
-          "id": "Elephants",
-          "name": "Elephants",
-          "iconUrl": "https://img.icons8.com/plasticine/2x/elephant.png"
         }
       ]
     }
@@ -73,5 +58,31 @@
       "imageUrl": "https://images.theconversation.com/files/226114/original/file-20180704-73300-1ls3qnp.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=926&fit=clip",
       "factoid": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>"
     }
+  ],
+  "IUCNListStatus": [
+    {
+			"name": "Least Concern",
+			"color": "#A4A84E"
+		},
+		{
+			"name": "Near Threatened",
+			"color": "#D1D2A4"
+		},
+		{
+			"name": "Vulnerable",
+			"color": "#E8B4B4"
+		},
+		{
+			"name": "Endangered",
+			"color": "#EA7272"
+		},
+		{
+			"name": "Critically Endangered",
+			"color": "#C63939"
+		},
+		{
+			"name": "Extinct",
+			"color": "#1C1C1C"
+		}
   ]
 }
