@@ -1544,7 +1544,7 @@
                 "region_name": "Eastern India"
             },
             "geometry": {
-                "type": "Polygon",
+                "type": "MultiPolygon",
                 "coordinates": [
                     [
                         [
